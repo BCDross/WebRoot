@@ -1,3 +1,14 @@
-div{
-  border:solid;
+body {
+  margin: 45px;
+  font-family: sans-serif;
+  font-size: 100%;
+  background-color: lightskyblue;
+  
 }
+
+h2 {
+ text-align: center;
+ color: midnightblue;
+ background-color:lightslategrey;
+}
+
